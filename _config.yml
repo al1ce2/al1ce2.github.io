@@ -1,10 +1,10 @@
-title: 끝없이 공부하는 퍼블리셔, alice
+title: 끝없이 공부하는 퍼블리셔, Alice
 subtitle: 🐱블로그에 오신 것을 환영합니다🐾
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
 url: "https://al1ce2.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/al1ce2" # the subpath of your site, e.g. /blog
+baseurl: "/Alice" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
