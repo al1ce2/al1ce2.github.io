@@ -25,7 +25,7 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Alice
+author: al1ce2
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "ylm47292@gmail.com"
 author_location: Korea (Republic of)
